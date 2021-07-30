@@ -29,6 +29,9 @@ package-lock.json
 .eslintcache
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# eslint config
+.eslintrc.json
+
 # dependencies
 /node_modules
 /.pnp
